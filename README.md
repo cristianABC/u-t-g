@@ -390,7 +390,7 @@ Product Entity
         (productImage) => productImage.product,
         {cascade: true} //evitar true para q no haya huerfanos
     )
-    images?: ProductImage
+    images?: ProductImage[]
 ```
 ProductImage Entity
 ```
