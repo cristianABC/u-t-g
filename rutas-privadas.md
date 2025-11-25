@@ -39,6 +39,7 @@ export class ApiTokenGuard implements CanActivate {
 ```
 
 PREGUNTA: Qué falta para poder hacer peticiones a la base de datos
+RESPUESTA: Agregar constructor e inyectar el repositorio de la tabla
 
 No es suficiente definir el guard, ahora debemos importarlo. Agrega la configuración en el modulo actual. 
 
