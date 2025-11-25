@@ -6,7 +6,7 @@ Creación de API para estudiantes del siguientes semestres
 * El usuario se registra y obtiene un API KEY 
 * El usuario envia el TOKEN como header para acceder a ciertos recursos
 * La API tiene endpoints públicos y privados
-* La API retorna recursos multimedia 
+
 
 Crear proyecto 
 
